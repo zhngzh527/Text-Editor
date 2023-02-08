@@ -15,4 +15,5 @@ This is a text editor that runs in the browser. The app will be a single-page ap
  - Webpack
 
 ## Heroku Link
-https://dashboard.heroku.com/apps/text-editor-pwa-zhnhzh
+https://text-editor-pwa-zhnhzh.herokuapp.com/
+
